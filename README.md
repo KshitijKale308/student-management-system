@@ -1,4 +1,4 @@
-# Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, Thymeleaf, Hibernate, MySQL
+# Spring Boot CRUD Project with Spring MVC, Spring Data JPA, Thymeleaf, Hibernate, MySQL
 
 
 ## Tools and Technologies Used
